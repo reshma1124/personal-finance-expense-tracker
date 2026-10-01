@@ -1,0 +1,3 @@
+go to terminal and 
+path should be :PS C:\Users\bondu\OneDrive\Desktop\ExpenseTracker>
+type :streamlit run app.py
